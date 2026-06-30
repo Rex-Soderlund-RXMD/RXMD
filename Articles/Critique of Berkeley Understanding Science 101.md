@@ -4,7 +4,7 @@ Then, we go through and critique specific points. The goal isn't to be unduly cr
 
 ---
 
-## Berkeley
+## [Berkeley](https://undsci.berkeley.edu/understanding-science-101/what-is-science/)
 
 #### What is science?
 
