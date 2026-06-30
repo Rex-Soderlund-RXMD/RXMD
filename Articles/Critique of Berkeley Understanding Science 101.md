@@ -2,8 +2,9 @@ This is the first in a series of articles that looks specifically at how science
 
 Then, we go through and critique specific points. The goal isn't to be unduly critical, but to offer granular critiques that improve our understanding of science.
 
+---
 
-##Berkeley
+## Berkeley
 
 #### What is science?
 
