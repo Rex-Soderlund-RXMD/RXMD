@@ -14,7 +14,9 @@ The introduction is really great at not immediately defining science by reifying
 
 > Science is both a body of knowledge and a process. In school, science may sometimes seem like a collection of isolated and static facts listed in a textbook, but that’s only a small part of the story. Just as importantly, science is also a process of discovery that allows us to link isolated facts into coherent and comprehensive understandings of the natural world.
 
-The initial hook was sufficient, but this introduces the first of 5 points, and is attempting to define what science *is* which is the epistemic flavor, and not the institutional flavor.
+The initial hook was sufficient, but this introduces the first of 5 points, and is attempting to define what science *is* which is the epistemic flavor, and not the institutional flavor. Which is unfortunate, because it begs the question: was the introduction accidently correct, if the authors immediately trip over their reification of science immediately after. 
+
+As I imagine will be a running them in this series: yes, the reification problem is the 21st century philosophy of science issue to be taken seriously as it continues to break trust in public perception.
 
 When we talk about science, it's more appropriate to talk about what science *is* by referring to the collective institutions and practioners; as opposed to talking about science as a specific type of method/process/knowledge. This is Chang's Institutional versus Epistemic distinction, and it's a critical distinction.
 
@@ -23,4 +25,25 @@ The issue with discussing science as epistemic is the type of language that gets
 Not as a whole, but in parts. There is not unified thing known as *science* that "science says," is referring. If there was, the demarcation problem would drop the *problem* and we'd have successfully reified science. However, there is certaintly epistemic practices within each field of science. Chemistry is absolutely composed in a revisable body of knowledge, with diverse methods. Further upstream of the epistemic practices: chemistry also holds implicit norms, and explicit values that make up the tradition that informs what knowledge is for, who it serves, and how to validate what its methods and findings.
 
 However, suggesting that science is simply the collective body of knowledge from all the field-specific bodies of knowledge would be conflating the individual practices that are each, informed differently, with some semblance of a unified *science.* The diversity of field-specific epistemic attitudes, goals, and criteria is what gives the institutional view of science strength.
+
+For instance, chemists can make bold claims because there is a community with shared tools, norms, and accountability structures, not because *"Science"* as a unified body as spoken. The authority exists in the local communities, in individual practioners, that enforce their own standards for what counts as reliable knowledge, methods, and practice. As opposed to the idea that the strength exists in a free-floating, objective, global authority.
+
+We took a large detour just detailing Chang's distinction on just the first sentence, so I'll requote the rest of the first bullet.
+
+> [Reification]. In school, science may sometimes seem like a collection of isolated and static facts listed in a textbook, but that’s only a small part of the story. Just as importantly, science is also a process of discovery that allows us to link isolated facts into coherent and comprehensive understandings of the natural world.
+
+This gets into pedagogical permissiveness. Which is, *how* subjects are taught informs the taste people develop for technical and analytic information. For many, technical language is difficult to conceptualize without sufficient practice and this is taken very seriously in the science litercy aspect of science communication. Specifically, the knowledge deficit problem: if people knew more scientific information, they'd make more informed choices. Except, it assumes that it's the absence of scientific information that is the primary driver of uninformed decision making.
+
+This is worth critiquing. Firstly, it immediately trips over the reification of science as a body of knowledge. We've already excavated that. So, we'll move toward the main critique: it's not a knowledge deficit, but instituonal trust issue. This is because, if we dive deeper than the superficial take on the knowledge deficit model: we see that, science communication is really presupppsing that people need to be better scientific thinkers; not that they need to learn more science facts.
+
+There is undeniable merit to that sentiment, and it's worthwhile to push. However, everytime this presupposition is postulated, it drags the weight of the dead weight of reification behind it. For instance, when we say: *"scientific thinker,"* what is being referred?
+
+Scientific thinking is a polysemous process. Does it entail strict evidentialist standards, and within that, which flavor of evidenstialism? Does it require epistemic hygiene, and if so, which type of hygiene? Designating the issue to a problem of thinking is, at first, appealing but immediately runs into issues as we attempt to standardize it as a target. Yet, it still stands, and maybe Feyerbard was correct when said: "anything goes." As in, as long as people are, to any degree, engaging with critical thinking then it is a win.
+
+I'll explore this more in another article in this series. My thoughts are still developing as I individuate "scientific thinking," from "critical thinking." Back to the topic, I'll carry forward the first bullet.
+
+> [Reification]. [Knowledge Deficit Model]. Just as importantly, science is also a process of discovery that allows us to link isolated facts into coherent and comprehensive understandings of the natural world.
+
+This smuggles back in the reification problem, but I won't rehash that.
+
 
