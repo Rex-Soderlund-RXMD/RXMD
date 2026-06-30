@@ -2,7 +2,7 @@
 
 ### What is Science?
 
-One of the initial misconceptions about science is asking, "What is science?" Another sentiment is asserting, "This is what the science says [...]." Science is not a _thing_ insofar as reification goes. Ironically, reifying science makes _science_ a label, rather than a category. As a label, _science_ becomes a catch-all sematinic marker that points to a polysemous _kind_ of science. More than anything, reifying science makes it suitable as a credibility token than as a category.
+One of the initial misconceptions about science is asking, "What is science?" Another sentiment is asserting, "This is what the science says [...]." Science is not a _thing_ insofar as reification goes. Ironically, reifying science makes _science_ a label, rather than a category. As a label, _science_ becomes a catch-all semantic marker that points to a polysemous _kind_ of science. More than anything, reifying science makes it suitable as a credibility token than as a category.
 
 As a category, _science_ is particularly difficult to define. The demarcation problem was a 20th century attempt to cleanly draw those lines between what _science_ is from _non-science_ or _psuedo-science._ Still, it's likely best to stop thinking of science as one thing, and to turn the question to, what instances of science can we observe?
 
