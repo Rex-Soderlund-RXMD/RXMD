@@ -44,6 +44,7 @@ I'll explore this more in another article in this series. My thoughts are still 
 
 > [Reification]. [Knowledge Deficit Model]. Just as importantly, science is also a process of discovery that allows us to link isolated facts into coherent and comprehensive understandings of the natural world.
 
-This smuggles back in the reification problem, but I won't rehash that.
+This smuggles back in the reification problem (i.e., "science is also a process of discovery", but I won't rehash that. However, bringing up discovery imports the static image of scientific knowledge, which is the thought that, there is a set of true propositions waiting to be discovered. In reality, knowledge is entirely socially constructed and the logical positivst era has grounded the western/anglophone objective view at the center of science. The sentiment is something like: science is an epistemic practice that happens to have human practioners. When in reality, each field of science is an epistemic community in constant healthly contention about the standards and practices of their field. If, scientific knowledge exists in some "view from nowhere," static space, this would hold but that's a metaphysical commitment that sits outside of the scope any scientific inquiry, and yet, informs what scientific knowledge is for.
 
+This view is likely what the authors of this page are accidently pointing at (i.e., biased toward the anglophone perspective) when they assert that science is actively linking isolated facts into a coherent web of knowledge.
 
