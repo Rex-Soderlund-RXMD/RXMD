@@ -2,11 +2,13 @@
 
 ### What is Science?
 
-One of the initial misconceptions about science is asking, "What is science?" Another sentiment is asserting, "This is what the science says [...]."
+One of the initial misconceptions about science is the assumption baked into the question "What is science?"
 
-The problem these raise is that people think about science as some real unified thing, it isn't. And, as we'll see next, the demarcation problem is what happens when you take that assumption too seriously and try to define the borders of something that can't be categorized.
+The assumption is that people think about science as some real unified natural thing, it isn't. And, as we'll see next, the demarcation problem is what happens when you take that assumption too seriously and try to define the borders of something that can't be categorized.
 
 #### Using Science as a Label
+
+Science is given the reification treatment (i.e., treating science, which is a loose abstract thing, as a concrete natural thing). It shows in how people talk about science, when people say "science says," "according to science," "scientists say" "science proves," "science tells us," "science shows us" and "science has found." Talking about science in this way could be explained in quietist terms: when we say science, we aren't suggesting it is a unified natural thing, but refering to what science entails. This position would be rare though, and the reification problem is what most commonly appears in how we think about science.
 
 Science is not a _thing_ insofar as reification goes. Ironically, reifying science makes _science_ a label, rather than a category. As a label, _science_ becomes a catch-all semantic marker that points to a polysemous _kind_ of science. More than anything, reifying science makes it suitable as a credibility token than as a category.
 
