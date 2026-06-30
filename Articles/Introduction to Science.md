@@ -8,7 +8,13 @@ The assumption is that people think about science as some real unified natural t
 
 #### Using Science as a Label
 
-Science is given the reification treatment (i.e., treating science, which is a loose abstract thing, as a concrete natural thing). It shows in how people talk about science, when people say "science says," "according to science," "scientists say" "science proves," "science tells us," "science shows us" and "science has found." Talking about science in this way could be explained in quietist terms: when we say science, we aren't suggesting it is a unified natural thing, but refering to what science entails. This position would be rare though, and the reification problem is what most commonly appears in how we think about science.
+Science is given the reification treatment (i.e., treating science, which is a loose abstract thing, as a concrete natural thing). It shows in how people talk about science, when people say "science says," "according to science," "scientists say" "science proves," "science tells us," "science shows us" and "science has found." ~Talking about science in this way could be explained away in quietist terms: when we say science, we aren't suggesting it is a unified natural thing, but refering to what science entails. This position would be rare though, and the reification problem is what most commonly appears in how we think about science.~
+
+So, when we ask, "What is science?" and drop the assumption that we mean it to be a natural kind of thing, we get a practical way of trying to answer this by looking at what scientists do, and attempting to define science through instances, rather than through abstractions. Without this specific type of analysis, science becomes a polysemous word and retains the catch-all semantic marker used to invoke epistemic authority, rather than ground claims in field-specific territory.
+
+For instance, rather than reading a Nature article on a new type of medicine and saying "Science discovers new miracle drug," the field-specific way to ground the claim would refer to the field itself and their specific groundwork, "Pharmacologists confirm new drug cures X in trials."
+
+So then, when is it appropriate to talk about science?
 
 Science is not a _thing_ insofar as reification goes. Ironically, reifying science makes _science_ a label, rather than a category. As a label, _science_ becomes a catch-all semantic marker that points to a polysemous _kind_ of science. More than anything, reifying science makes it suitable as a credibility token than as a category.
 
