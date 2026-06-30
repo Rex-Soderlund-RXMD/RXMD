@@ -6,6 +6,8 @@ Then, we go through and critique specific points. The goal isn't to be unduly cr
 
 ## [Berkeley](https://undsci.berkeley.edu/understanding-science-101/what-is-science/)
 
+* **How does this work?** I will quote sections from Berkeley's Understanding Science 101, and then I will go through it. Sometimes, a single sentence provides a ton to unpack, so I will bracket off that section and re-quote the rest. The format is straight forward once you begin reading.
+
 #### What is science?
 
 > The word “science” probably brings to mind many different pictures: a fat textbook, white lab coats and microscopes, an astronomer peering through a telescope, a naturalist in the rainforest, Einstein’s equations scribbled on a chalkboard, the launch of the space shuttle, bubbling beakers …. All of those images reflect some aspect of science. But none of them provides a full picture because science has so many facets:
