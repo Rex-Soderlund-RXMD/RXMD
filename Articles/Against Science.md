@@ -3,6 +3,8 @@ Feyerabend wrote about the conditions for a natural kind to have necessary and s
 
 If science is a natural kind, we would have found these necessary and sufficient conditions. And conversely, if psuedoscience was a natural kind, then ditto. So, the question becomes, if science is not a natural kind, then what is it?
 
+Other names to read before revising: Laudan, Hacking, Kitcher.
+
 ---
 
 ### Outline
