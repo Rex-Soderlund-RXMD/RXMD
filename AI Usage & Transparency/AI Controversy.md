@@ -1,4 +1,4 @@
-# AI Transparency
+# AI Controversy
 
 **AI-usage is controversial.** Mainly because it masks what counts as original thought. Critics are rightfully critical of AI-usage when traces of AI-output appear in writers who do not disclose AI-usage in the production of their intellectual property. The dubious nature of what counts as original thought is becoming blurry as AI-usage increases, and disclosure continues to remain a serious contention in ethics writing.
 
