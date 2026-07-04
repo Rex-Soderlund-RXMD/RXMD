@@ -1,7 +1,9 @@
 ### Preface
-At the time this was written, AI is really contentious in the writing space. There are people along a consistently developing spectrum of opinions about using AI in writing, and chasing down the ideal position is likely not a good race to run.
+At the time this was written, [AI is really controversial](https://github.com/Rex-Soderlund-RXMD/RXMD/blob/main/AI%20Usage%20&%20Transparency/AI%20Controversy.md)in the writing space. There are people along a consistently developing spectrum of opinions about using AI in writing, and nailing down the ideal position that accounts for all concerns and best practices is likely an impossible feat.
 
-So, the race I'd rather run is choosing to be explicit about my AI use in writing articles, and what I deem to be plagarism versus good-faith use. This is not an attempt to sway anyone, or convince anyone, it's simply putting my thoughts out there: if you respect it, great, if you think rationalizing any AI use in any form is not great, that's okay too.
+So, rather than define a perfectly articulated position: I'll be explicit about my AI-use in my writing process.
+
+**For AI-critics:** This is not an attempt to sway or convince anyone of AI-usage, it's simply putting my method (which, itself is critiquable) out there: if you respect AI-transparency,then this does that. If, however, someone views AI-usage as unacceptable, then this is not meant to change anyone's mind.
 
 # AI Use in RXMD
 
