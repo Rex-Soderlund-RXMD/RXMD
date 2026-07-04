@@ -40,11 +40,23 @@ I4 smuggles in the conceptual work that critics of AI-usage attack, though, it's
 
 Github is uniquely positioned to provide an entire commit history, which functions to allow real-time documentation of AI-use as the writing unfolds. Which provides a historical accrediation of the intellectual process, by explicitly documenting with Claude.ai/share URL links to specific intellectual work (i.e., sentences, paragraphs, etc).
 
-However, conflating a richly detailed writing process still doesn't resolve the trajectory issue that faces intellectual independence. Aside from intent, Xexéo also details control and tracebility: asking who was actually steering the conversation in a long format AI-transcript; and 
+However, conflating a richly detailed writing process still doesn't resolve the trajectory issue that faces intellectual independence. Aside from intent, Xexéo also details control and tracebility: asking who was actually steering the conversation in a long format AI-back-and-fourth; and how explicit the reconstruction of the author's intellectual work could be reproduced.
+
+Reconstructing intellectual work is becoming a key falsifiable criterion for writers, as it shows whether they have a record of their intellectual work that the public could access. Xexéo details this across four tiers:
+1. Tracebility 1 (T1) is nothing exists on record.
+2. T2 is an insufficient record exists.
+3. T3 is a full documented process exists.
+4. T4 is a full repository exists for independent review.
+
+Crucially, Claude.ai/share is capped by T2 bordering T3, because while it does provide a transcript of prompts and output, it does not provide model versions in the shared link. It also doesn't offer metadata, timestamps, or edits/retry commits. As an aside, Github serves as a T4 for writers, as the entire intellectual process is publically documented and independently verifiable.
 
 ### Critique of Trajectory
 
-Xexéo leaves out a unique situation: 
+Xexéo leaves out a unique situation: AI that shapes the thinking of a writer, where a full AI-back-and-fourth influences how a thinker develops their intellectual independent thought processes, but doesn't leave a structural trace. Practically, this looks like using AI to discuss some topic, then, a week later writing about that process as if independently concluded.
+
+What makes it a unique case is that the writer is not using any specific argument, framing, or categories as defined by Xexéo in a way that survives into the iterative process. So, it leaves open the question of AI-contribution and traceability if it left no definitive mark on the generation of the text.
+
+This is the critique of trajectory, that AI-use influences how we think, and the credence we give ourselves for our intellectual independence is not entirely our own. However, Xexéo's concept of control, or, who is steering the conversation may limit what degree AI-usage influences our thinking. This is, in principle, testable.
 
 
 
