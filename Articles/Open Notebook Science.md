@@ -14,6 +14,8 @@ The main point is to offer a competitive edge in open epistemic territory by put
 
 In principle, Chemist and open science advocate, the late Jean-Claude Bradley envisioned and directly led a real-time data availability approach to science known as Open-Notebook Science (ONS). Keep in mind, Bradley was a chemist—it's relevant to the scope of ONS across science.
 
+#### Epistemic Practices in Review
+
 Before turning to ONS, it's worth taking a step back to view scientific epistemic practices more broadly. This is the epistemic vantage point that sees how methods across science are further composed into variations of epistemic practice. For instance, Popper's falsifiablity is directly applicable to fields like {[AI-Intent 4: generated case-examples](https://claude.ai/share/7536190f-d28e-4cdc-b6d7-cc7239b926cc)} physics, evolutionary biology, clinical medicine, astronomy and cosmology, and Bradley's field of chemistry. However, String Theory has remained both unfalsifiable and scientific.
 
 Popper's falsifiablity is one epistemic practice, originally proposed as a demaraction criterion that separates science from psuedoscience, but there are plenty. Peer reciew is another epistemic practice held but most, but not all fields of science.
