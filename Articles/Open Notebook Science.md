@@ -1,3 +1,7 @@
+# Open-Notebook Science
+
+> **AI-Usage:** This article contains AI-generated intellectual content, however, the specific sentences, paragraphs, and any other intellectual work is explicitly marked with the linked Claude.ai/share
+
 Taking the open-notebook science further than intended.
 
 It should be a scientific epistemic aim to incorporate this for furthering science's epistemic knowledge. The goal should be to make data, interpretation, and process.
@@ -10,4 +14,4 @@ The main point is to offer a competitive edge in open epistemic territory by put
 
 In principle, Chemist and open science advocate, the late Jean-Claude Bradley envisioned and directly led a real-time data availability approach to science known as Open-Notebook Science (ONS). Keep in mind, Bradley was a chemist—it's relevant to the scope of ONS across science.
 
-Before turning to ONS, it's worth taking a step back to view scientific epistemic practices more broadly. This is the epistemic vantage point that sees how methods across science are further composed into variations of epistemic practice. For instance, Popper's falsifiablity is directly applicable to fields like [AI-I4](https://claude.ai/share/7536190f-d28e-4cdc-b6d7-cc7239b926cc)
+Before turning to ONS, it's worth taking a step back to view scientific epistemic practices more broadly. This is the epistemic vantage point that sees how methods across science are further composed into variations of epistemic practice. For instance, Popper's falsifiablity is directly applicable to fields like [AI-I4](https://claude.ai/share/7536190f-d28e-4cdc-b6d7-cc7239b926cc) 
