@@ -1,5 +1,5 @@
 ### Preface
-At the time this was written, [AI is really controversial](https://github.com/Rex-Soderlund-RXMD/RXMD/blob/main/AI%20Usage%20&%20Transparency/AI%20Controversy.md)in the writing space. There are people along a consistently developing spectrum of opinions about using AI in writing, and nailing down the ideal position that accounts for all concerns and best practices is likely an impossible feat.
+At the time this was written, [AI is really controversial](https://github.com/Rex-Soderlund-RXMD/RXMD/blob/main/AI%20Usage%20&%20Transparency/AI%20Controversy.md) in the writing space. There are people along a consistently developing spectrum of opinions about using AI in writing, and nailing down the ideal position that accounts for all concerns and best practices is likely an impossible feat.
 
 So, rather than define a perfectly articulated position: I'll be explicit about my AI-use in my writing process.
 
