@@ -10,8 +10,11 @@ The main point is to offer a competitive edge in open epistemic territory by put
 
 ---
 
-# The Limitations of Open-Notebook Science Per Field Basis
+## The Limitations of Open-Notebook Science Per Field Basis
 
 In principle, Chemist and open science advocate, the late Jean-Claude Bradley envisioned and directly led a real-time data availability approach to science known as Open-Notebook Science (ONS). Keep in mind, Bradley was a chemist—it's relevant to the scope of ONS across science.
 
-Before turning to ONS, it's worth taking a step back to view scientific epistemic practices more broadly. This is the epistemic vantage point that sees how methods across science are further composed into variations of epistemic practice. For instance, Popper's falsifiablity is directly applicable to fields like [AI-I4](https://claude.ai/share/7536190f-d28e-4cdc-b6d7-cc7239b926cc) 
+Before turning to ONS, it's worth taking a step back to view scientific epistemic practices more broadly. This is the epistemic vantage point that sees how methods across science are further composed into variations of epistemic practice. For instance, Popper's falsifiablity is directly applicable to fields like [AI-Intent 4: generated case-examples](https://claude.ai/share/7536190f-d28e-4cdc-b6d7-cc7239b926cc) physics, evolutionary biology, clinical medicine, astronomy and cosmology, and Bradley's field of chemistry.
+
+#### Physics
+
