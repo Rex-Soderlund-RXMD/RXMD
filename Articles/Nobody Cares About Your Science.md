@@ -1,0 +1,9 @@
+
+
+There's a particular archetype of thinker that pulls the evidence too quickly. It arrives in quips like: "There's a study that says... the research shows... science is certain on... scientists say that... evidence shows..." These phrases serve as indicators, rather than genuine offers of information, of disagreement. Those quips serve as a telltale sign that the person offering up "a study that shows" believes they are your epistemic superior on this specific point.
+
+Let me paint a picture. You are talking to someone about something you never personally verified (e.g., never questioned it, never looked it up). And after you explain your understanding, they say, "Well, it's funny you should say that; because studies actually show the opposite, they show that..."
+
+If, you hold a strong position for evidentiary norms, and remain provisional in your views, that type of response doesn't seem abnormal. For the rest of us, it is obnoxious. It's obnoxious precisely because its presumptious and disingenuous. Someone who disagrees with you, but respects your autonomy would he charitable toward your view, and ask you about your view. Rather than, covertly slip into an objective position to correct you with evidence.
+
+Let me paint another picture. You are talking to someone, and they are clearly wrong about what they're saying. It's not a matter of taste, or relative truth, it's simply incorrect. Rather than reaching for evidence to dispute their point (i.e., avoid confrontation by passively offering information in place of healthy disagreement), you tell them your position directly, nicely; and ask them to listen to your understanding. This, instead of smuggling in evidence to speak for you, allows you to be honest with yourself, and precommit to your view and the possibility you will be wrong, and let the other person know where you stand, so there isn't a feigned agreement being propped up in place of a healthy disagreement.
