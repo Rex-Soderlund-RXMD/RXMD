@@ -1,0 +1,3 @@
+
+
+Lets get specific when we talk about 'transparency.' The type of transparency is a specific flavor in the accountability realm. Another realm would be something like, transparency as a process of tracing one's intellectual work back to the process. I find this latter type to be gamifiable, and the former type to have way more clear reprucussions for producing something that later is found to be false. 
