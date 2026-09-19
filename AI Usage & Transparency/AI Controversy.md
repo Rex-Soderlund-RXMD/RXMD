@@ -34,7 +34,15 @@ In Loi's view, tracing your writing process and AI-use through maximal transpare
 
 #### The Alibi Paper
 
-However, let's consider the Alibi Paper. One of the distinctions Loi points out is: 
+However, let's consider the Alibi Paper. One of the distinctions Loi points out is the premise that I personally think is the current populist view: AI-free writing is true authorship. Every degree away from that absolute position blurs the line between where "true authorship" ends and AI-assisted starts.
+
+So, the Alibi paper represents an opposite terminus where instead of "AI-free writing is true authorship," the actual authorship belongs to the person who designs the architecture that the AI will use produce the content within it. In other words, "AI-free architecture is true-authorship."
+
+The paper itself doesn't need to be written word-by-word by a person, because the architecture that deployed AI to write the paper was the human-component. There's issues with this, especially considering how AI "sounds" in writing pieces. But, in principle, an entire paper could be entirely AI-generated.
+
+Take for instance, some hypothetical paper that an academic was to produce on AI-transparency. The author herself never discloses it's AI-produced, but carefully accounts for everything a skeptic would look for based off past-papers, and she builds anti-skepticism into the paper's parameters (e.g., makes everything sound more human, eliminates all em-dashes, 'if X, then Y,' and more nuanced stuff). Then, she releases the paper without an archive, and without a disclaimer. She never checks the output, she just trusts the process. The paper is published and she is credited with the publication.
+
+---
 
 There is a unique paper that specifically puts the entire process of AI-usage on display, as part of the paper's content (i.e., AI is prompted to write a paper on AI-transparency while documenting the entire process through a publically-available iterative process) and then the final claim the author of the paper makes is: **a reader can use the entire record of the AI producing the paper to deny that the author wrote the paper.** Which, is a mind-bending concept to wrap your head around.
 
