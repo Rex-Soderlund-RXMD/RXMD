@@ -8,6 +8,34 @@ RXMD AI-usage isn't as straight-forward as: yes, I use AI, or no, I don't use AI
 
 #### The Alibi Paper
 
+Michele Loi (University of Milan) published _[The Journal of Prompt Engineered (Moral) Philosophy](https://arxiv.org/pdf/2511.08639)_. His paper argues that AI-assisted ethics research needs a full process record, and the paper aims to demonstrate that process on itself. Loi directs AI models to draft the paper, and records the process as an archive he cites in the paper alongside the paper.
+
+The whole paper's writing process is put on display, showing the iterative process of documenting all the chat-logs as a transparency process in practice.
+
+When I first came across the paper, I called it the alibi paper because of one concession near the end of the paper: Loi writes that a reader "can use the same SP-1 through SP-5 record to deny the author authorship of this very paper." Meaning, the same archive that details how the paper was drafted is also evidence to argue he didn't write it himself.
+
+However, after exchanging emails with Loi, it became apparent that my first reading (while, interesting in it's own right) was far more harsh than the paper supports. I assumed the paper was entirely AI-produced, or in other words, carefully curated AI papermill slop (I do not use "slop" with the derogatory meaning of nonsense, but in the, completely void of human-authorship); and that Loi never read it, and then published it on it's own merit with his credentials attached to the intellectual work of the AI-generated content alone (which is interesting, and we will address as a hypothetical).
+
+However, this isn't the case, and he says so himself in the paper: he discloses AI use in the abstract, the body, and the archive, and he describes his authorship directly. My hope was that, in principle, you could hand his paper to him and exclaim: "your own paper is evidence that you never wrote this paper, or even read it." However, Loi confirmed in email that he did independently read it multiple times, and says that declaring so within the paper is unnecessary, and could be obviously inferred.
+
+I do still have some gripes with the transparency process he does employ, mainly that (1) he does not release the actual conversation logs with the AI, and only releases a curated log after the fact and (2) he does not explicitly disclose his own role in the intellectual content in the first-person, stating that it's obviously infferre, only as one role of many (i.e., only serving as a director and reader); each of which I think allows for manipulative underdetermination if applied universally. Each of these being addressed later.
+
+---
+
+### The Hypothetically Interesting Alibi Paper
+
+#### Contextualizing
+
+The scenario I first assumed Loi was undertaking should still be taken seriously as a case in its own right: an author has an AI produce an entire paper on the Ethics of AI Transparency, never reads it, but stands behind the intellectual content because they trust the process that produced it. Then, that paper gets published. It introduces interesting caveats to consider, mainly in, what constitutes authorship or responsbility for intellectual content.
+
+Loi's paper is a weaker version of this, because it does disclose itself as having the author involved in the process. Although, I think in a way that prioritizes transparency in "tracing," as opposed to transparency in declaration. This tracing/declaration distinction was a focus on our email. I concede that he is far more well-read in the literature surrounding AI ethics overall, but I do believe my point on manipulative underspecification may be underconsidered.
+
+In Loi's view, tracing your writing process and AI-use through maximal transparency means implementing his SP-1,2,3,4,5 system. In essence, it provides a checkable way of understanding the writing process for anyone by publishing it as a stand alone piece one could read alongside the paper itself. In my view, I think this is asking far too much as a pragmatic solution, and AI transparency could be as simple as declaring it up front. Though, Loi points out issues in this approach both in his paper, and in our email exchange.
+
+#### The Alibi Paper
+
+However, let's consider the Alibi Paper. One of the distinctions Loi points out is: 
+
 There is a unique paper that specifically puts the entire process of AI-usage on display, as part of the paper's content (i.e., AI is prompted to write a paper on AI-transparency while documenting the entire process through a publically-available iterative process) and then the final claim the author of the paper makes is: **a reader can use the entire record of the AI producing the paper to deny that the author wrote the paper.** Which, is a mind-bending concept to wrap your head around.
 
 The paper is an attempt to build an exact system for academic ethics writing using AI-assisted writing. Michele Loi, PhD from University of Milan, publishes a paper called _[The Journal of Prompt Engineered (Moral) Philosophy](https://arxiv.org/pdf/2511.08639)_, and it seriously blurs the line between whether AI-generated content is worth the merit or not.
